@@ -18,3 +18,5 @@ Download the project the install the following dependencies/ Nuget Packages
 
 
 Recommended Chrome Version = 106
+
+If you have any issues contact me phonenaingkha@gmail.com :)
