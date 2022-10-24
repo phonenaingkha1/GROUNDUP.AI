@@ -19,4 +19,6 @@ Download the project the install the following dependencies/ Nuget Packages
 
 Recommended Chrome Version = 106
 
+PS This will not include the new user registeration because I couldn't figure out the way to get around the recaptcha. I believe the Captcha 's purpose is to stop the automation bots. So it will have to be half maneul, half automation. 
+
 If you have any issues contact me phonenaingkha@gmail.com :)
